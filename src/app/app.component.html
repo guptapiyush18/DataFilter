@@ -1,0 +1,110 @@
+<!-- <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> -->
+
+<body style="text-align:center;">
+    <link href="https://fonts.googleapis.com/css?family=Trocchi" rel="stylesheet">
+    <fieldset style="width:1300px; margin:10px auto;">
+        <legend><b>Choose database file!!!</b></legend>
+        <br><br>
+        <b>
+            <h1>
+
+                Select File Type:<br><br>
+                <label class="container"><input type="radio" checked name="p1" (click)="setCsv()" #q1><span
+                        class="checkmark"></span>&nbsp;&nbsp;&nbsp;&nbsp; CSV File
+
+
+                </label>
+                <label class="container">&nbsp;&nbsp;<input type="radio" name="p1" (click)="setJson()" #q2><span
+                        class="checkmark"></span>&nbsp;&nbsp;&nbsp;&nbsp; JSON File
+                </label>
+                <!-- <input type="radio" class=big name="radio" checked (click)="setCsv()" #q1>CSV File
+                <input type="radio" class=big name="p1" (click)="setJson()" #q2>JSON File<br><br> -->
+            </h1>
+        </b>
+
+        <input type="file" id="filecss" #file accept={{ftype}} (click)="bool()">
+        <br><br><br>
+        <button type="submit" class="button" (click)="filewise(file.value)"><b>PROCEED</b></button>
+        <pre><span id="ss">{{errorype}}</span></pre>
+        <br><br>
+
+    </fieldset>
+    <span *ngIf="bflag">
+        <button *ngIf="bflag" type="submit" class="button" (click)="ByColumn()"><b>FILTER BY COLUMN</b></button>&nbsp;
+        <button *ngIf="bflag" type="submit" class="button" (click)="ByConstraints()"><b>FILTER BY
+                CONSTRAINTS</b></button><br><br>
+        <span *ngIf="Bycol">
+            <span *ngFor="let f of fields; let i=index">
+                <input type="checkbox" class=big (click)=check(i,f) [checked]="checkboxc">{{f.toUpperCase() }}
+            </span>
+            <br>
+
+            <button *ngIf="bflag" type="submit" class="button" (click)="filter(file.value)"><b>FILTER
+                    IT</b></button><br>
+        </span>
+        <span *ngIf="Bycons">
+
+            <select #s (change)="sss(s.value)">
+                <option disabled>---SELECT---</option>
+                <option value=101>Number Of Rows</option>
+                <option value=102>Search by data</option>
+                <option value=103>Search with constraints on data </option>
+
+            </select><br>
+            <span>
+                <br>
+                <span *ngIf="numflag">
+                    Enter Number Of Rows to be displayed:
+                    <input type="number" #vall (change)="constraints(vall.value)">
+                    <br><br>
+                </span>
+                <span *ngIf="idflag">
+                    Enter Column Name:
+                    <input type="text" #val0 (blur)="CheckCol(val0.value)"><br><br>Enter Data to Search:
+                    <input type="text" #vall   (change)="idconstraints(val0.value,vall.value)">
+                    <br><br>
+                </span> 
+
+                <span *ngIf="groupflag">
+                    <pre>Enter Column Name:                            Enter Data to Search:<br>   <input type="text" #col1 (blur)="CheckCol(col1.value)">     <select  #mal1><option disabled>---SELECT---</option><option value=">">></option><option value="<"><</option></select>      <input type="text" #val1 (change)="groupconstraints(col1.value,mal1.value,val1.value)">     </pre>
+                </span>
+            </span>
+
+        </span>
+        <br>
+        <span id="ss">{{errorType}}</span>
+
+        <span *ngIf="flagt">
+            <table>
+                <th *ngFor="let fi of fields">{{fi}}</th>
+                <tr *ngFor="let user of serverData">
+                    <td *ngFor="let ii of fields;let i = index">{{user[fields[i]]|json}}</td>
+                </tr>
+
+            </table>
+        </span>
+
+        <span>
+            <table *ngIf="!flagt">
+                <th *ngFor="let fi of fieldsfilter">{{fi}}</th>
+                <tr *ngFor="let user of serverData">
+                    <td *ngFor="let ii of fieldsfilter;let i = index">{{user[fieldsfilter[i]]|json}}</td>
+                </tr>
+
+            </table>
+        </span>
+        <!-- 
+        <span *ngIf="!csvjson">
+            <table *ngIf="!flagt">
+                <th *ngFor="let va of val">{{va}}</th>
+                <tr *ngFor="let user of serverData">
+                    <td >{{user|json}}</td>
+                </tr>
+        
+            </table> 
+        </span> -->
+
+
+    </span>
+
+</body>

@@ -1,0 +1,502 @@
+[
+  {
+    "uid": 1401,
+    "name": "Mclaughlin Chang",
+    "age": 42,
+    "gender": "male",
+    "cgpa": 7.2118,
+    "email": "mclaughlinchang@inear.com",
+    "mob": "+91 (881) 512-2202",
+    "Branch": "Samba"
+  },
+  {
+    "uid": 1402,
+    "name": "Ines Chen",
+    "age": 41,
+    "gender": "female",
+    "cgpa": 5.2163,
+    "email": "ineschen@inear.com",
+    "mob": "+91 (942) 486-2280",
+    "Branch": "Panipat"
+  },
+  {
+    "uid": 1403,
+    "name": "Clarke Kinney",
+    "age": 32,
+    "gender": "male",
+    "cgpa": 7.0497,
+    "email": "clarkekinney@inear.com",
+    "mob": "+91 (993) 469-4000",
+    "Branch": "Ludhiana"
+  },
+  {
+    "uid": 1404,
+    "name": "Yvette Herrera",
+    "age": 38,
+    "gender": "female",
+    "cgpa": 6.3359,
+    "email": "yvetteherrera@inear.com",
+    "mob": "+91 (813) 445-2148",
+    "Branch": "Hebbel"
+  },
+  {
+    "uid": 1405,
+    "name": "Ester Dudley",
+    "age": 49,
+    "gender": "female",
+    "cgpa": 5.6111,
+    "email": "esterdudley@inear.com",
+    "mob": "+91 (864) 412-2665",
+    "Branch": "Ludhiana"
+  },
+  {
+    "uid": 1406,
+    "name": "Eileen Monroe",
+    "age": 39,
+    "gender": "female",
+    "cgpa": 6.1306,
+    "email": "eileenmonroe@inear.com",
+    "mob": "+91 (876) 440-3258",
+    "Branch": "Ludhiana"
+  },
+  {
+    "uid": 1407,
+    "name": "Ashley Richardson",
+    "age": 55,
+    "gender": "female",
+    "cgpa": 9.7587,
+    "email": "ashleyrichardson@inear.com",
+    "mob": "+91 (976) 459-2024",
+    "Branch": "Hebbel"
+  },
+  {
+    "uid": 1408,
+    "name": "Coleen Mcleod",
+    "age": 28,
+    "gender": "female",
+    "cgpa": 7.9882,
+    "email": "coleenmcleod@inear.com",
+    "mob": "+91 (881) 435-3824",
+    "Branch": "Ludhiana"
+  },
+  {
+    "uid": 1409,
+    "name": "Kim Kennedy",
+    "age": 21,
+    "gender": "female",
+    "cgpa": 5.4754,
+    "email": "kimkennedy@inear.com",
+    "mob": "+91 (936) 510-2826",
+    "Branch": "Panipat"
+  },
+  {
+    "uid": 1410,
+    "name": "Wooten Trevino",
+    "age": 38,
+    "gender": "male",
+    "cgpa": 5.2716,
+    "email": "wootentrevino@inear.com",
+    "mob": "+91 (835) 435-2329",
+    "Branch": "Chandigarh"
+  },
+  {
+    "uid": 1411,
+    "name": "Contreras Stone",
+    "age": 26,
+    "gender": "male",
+    "cgpa": 8.3268,
+    "email": "contrerasstone@inear.com",
+    "mob": "+91 (986) 588-2030",
+    "Branch": "Hebbel"
+  },
+  {
+    "uid": 1412,
+    "name": "Thomas Hinton",
+    "age": 54,
+    "gender": "male",
+    "cgpa": 5.1616,
+    "email": "thomashinton@inear.com",
+    "mob": "+91 (992) 544-2095",
+    "Branch": "Hebbel"
+  },
+  {
+    "uid": 1413,
+    "name": "Alexandra Spears",
+    "age": 40,
+    "gender": "female",
+    "cgpa": 6.061,
+    "email": "alexandraspears@inear.com",
+    "mob": "+91 (990) 463-2246",
+    "Branch": "Ludhiana"
+  },
+  {
+    "uid": 1414,
+    "name": "Bridgette Foster",
+    "age": 38,
+    "gender": "female",
+    "cgpa": 6.2086,
+    "email": "bridgettefoster@inear.com",
+    "mob": "+91 (939) 489-3154",
+    "Branch": "Samba"
+  },
+  {
+    "uid": 1415,
+    "name": "Espinoza Rice",
+    "age": 38,
+    "gender": "male",
+    "cgpa": 6.1787,
+    "email": "espinozarice@inear.com",
+    "mob": "+91 (936) 594-3548",
+    "Branch": "Ludhiana"
+  },
+  {
+    "uid": 1416,
+    "name": "Key Briggs",
+    "age": 45,
+    "gender": "male",
+    "cgpa": 7.5891,
+    "email": "keybriggs@inear.com",
+    "mob": "+91 (980) 417-3913",
+    "Branch": "Panipat"
+  },
+  {
+    "uid": 1417,
+    "name": "Macias Holden",
+    "age": 45,
+    "gender": "male",
+    "cgpa": 5.0932,
+    "email": "maciasholden@inear.com",
+    "mob": "+91 (861) 422-2204",
+    "Branch": "Panipat"
+  },
+  {
+    "uid": 1418,
+    "name": "Mccarty Branch",
+    "age": 28,
+    "gender": "male",
+    "cgpa": 6.4617,
+    "email": "mccartybranch@inear.com",
+    "mob": "+91 (959) 594-3249",
+    "Branch": "Panipat"
+  },
+  {
+    "uid": 1419,
+    "name": "Haynes Richard",
+    "age": 37,
+    "gender": "male",
+    "cgpa": 5.2124,
+    "email": "haynesrichard@inear.com",
+    "mob": "+91 (891) 499-2233",
+    "Branch": "Hebbel"
+  },
+  {
+    "uid": 1420,
+    "name": "Eleanor Hicks",
+    "age": 39,
+    "gender": "female",
+    "cgpa": 6.1319,
+    "email": "eleanorhicks@inear.com",
+    "mob": "+91 (863) 425-3624",
+    "Branch": "Mirzapur"
+  },
+  {
+    "uid": 1421,
+    "name": "Elizabeth Head",
+    "age": 60,
+    "gender": "female",
+    "cgpa": 7.8021,
+    "email": "elizabethhead@inear.com",
+    "mob": "+91 (978) 577-2350",
+    "Branch": "Ludhiana"
+  },
+  {
+    "uid": 1422,
+    "name": "Dean Erickson",
+    "age": 53,
+    "gender": "male",
+    "cgpa": 7.1659,
+    "email": "deanerickson@inear.com",
+    "mob": "+91 (860) 468-2390",
+    "Branch": "Panipat"
+  },
+  {
+    "uid": 1423,
+    "name": "Graham Fischer",
+    "age": 23,
+    "gender": "male",
+    "cgpa": 9.3243,
+    "email": "grahamfischer@inear.com",
+    "mob": "+91 (924) 434-2328",
+    "Branch": "Hebbel"
+  },
+  {
+    "uid": 1424,
+    "name": "Nichole Dennis",
+    "age": 22,
+    "gender": "female",
+    "cgpa": 5.552,
+    "email": "nicholedennis@inear.com",
+    "mob": "+91 (914) 534-3602",
+    "Branch": "Panipat"
+  },
+  {
+    "uid": 1425,
+    "name": "Lane Houston",
+    "age": 27,
+    "gender": "male",
+    "cgpa": 5.8415,
+    "email": "lanehouston@inear.com",
+    "mob": "+91 (928) 527-2242",
+    "Branch": "Mirzapur"
+  },
+  {
+    "uid": 1426,
+    "name": "Kerry Brady",
+    "age": 27,
+    "gender": "female",
+    "cgpa": 6.4717,
+    "email": "kerrybrady@inear.com",
+    "mob": "+91 (919) 589-2727",
+    "Branch": "Panipat"
+  },
+  {
+    "uid": 1427,
+    "name": "Myrna Skinner",
+    "age": 29,
+    "gender": "female",
+    "cgpa": 8.6599,
+    "email": "myrnaskinner@inear.com",
+    "mob": "+91 (844) 421-3418",
+    "Branch": "Samba"
+  },
+  {
+    "uid": 1428,
+    "name": "Sears Price",
+    "age": 23,
+    "gender": "male",
+    "cgpa": 5.0785,
+    "email": "searsprice@inear.com",
+    "mob": "+91 (986) 452-3152",
+    "Branch": "Chandigarh"
+  },
+  {
+    "uid": 1429,
+    "name": "Morton Camacho",
+    "age": 58,
+    "gender": "male",
+    "cgpa": 5.1639,
+    "email": "mortoncamacho@inear.com",
+    "mob": "+91 (870) 566-2078",
+    "Branch": "Ludhiana"
+  },
+  {
+    "uid": 1430,
+    "name": "Eaton Vazquez",
+    "age": 21,
+    "gender": "male",
+    "cgpa": 8.7319,
+    "email": "eatonvazquez@inear.com",
+    "mob": "+91 (971) 576-2994",
+    "Branch": "Hebbel"
+  },
+  {
+    "uid": 1431,
+    "name": "Morin Mclaughlin",
+    "age": 41,
+    "gender": "male",
+    "cgpa": 9.7761,
+    "email": "morinmclaughlin@inear.com",
+    "mob": "+91 (806) 445-3526",
+    "Branch": "Hebbel"
+  },
+  {
+    "uid": 1432,
+    "name": "Lupe Mcmahon",
+    "age": 34,
+    "gender": "female",
+    "cgpa": 6.8087,
+    "email": "lupemcmahon@inear.com",
+    "mob": "+91 (943) 483-3217",
+    "Branch": "Chandigarh"
+  },
+  {
+    "uid": 1433,
+    "name": "Crawford Hogan",
+    "age": 48,
+    "gender": "male",
+    "cgpa": 6.4271,
+    "email": "crawfordhogan@inear.com",
+    "mob": "+91 (884) 414-2907",
+    "Branch": "Chandigarh"
+  },
+  {
+    "uid": 1434,
+    "name": "Gonzalez Terry",
+    "age": 54,
+    "gender": "male",
+    "cgpa": 8.3779,
+    "email": "gonzalezterry@inear.com",
+    "mob": "+91 (827) 422-3533",
+    "Branch": "Hebbel"
+  },
+  {
+    "uid": 1435,
+    "name": "Hollie Manning",
+    "age": 57,
+    "gender": "female",
+    "cgpa": 5.9722,
+    "email": "holliemanning@inear.com",
+    "mob": "+91 (875) 492-3601",
+    "Branch": "Mirzapur"
+  },
+  {
+    "uid": 1436,
+    "name": "Wright Delgado",
+    "age": 41,
+    "gender": "male",
+    "cgpa": 8.3672,
+    "email": "wrightdelgado@inear.com",
+    "mob": "+91 (821) 564-2759",
+    "Branch": "Hebbel"
+  },
+  {
+    "uid": 1437,
+    "name": "Nunez Collins",
+    "age": 50,
+    "gender": "male",
+    "cgpa": 8.1172,
+    "email": "nunezcollins@inear.com",
+    "mob": "+91 (895) 529-2833",
+    "Branch": "Mirzapur"
+  },
+  {
+    "uid": 1438,
+    "name": "Payne Hunt",
+    "age": 44,
+    "gender": "male",
+    "cgpa": 5.7646,
+    "email": "paynehunt@inear.com",
+    "mob": "+91 (919) 525-2452",
+    "Branch": "Hebbel"
+  },
+  {
+    "uid": 1439,
+    "name": "Bird Ellis",
+    "age": 53,
+    "gender": "male",
+    "cgpa": 8.6152,
+    "email": "birdellis@inear.com",
+    "mob": "+91 (963) 476-2412",
+    "Branch": "Mirzapur"
+  },
+  {
+    "uid": 1440,
+    "name": "Gwendolyn Lamb",
+    "age": 56,
+    "gender": "female",
+    "cgpa": 7.0656,
+    "email": "gwendolynlamb@inear.com",
+    "mob": "+91 (829) 572-2527",
+    "Branch": "Samba"
+  },
+  {
+    "uid": 1441,
+    "name": "Yvonne Shaffer",
+    "age": 35,
+    "gender": "female",
+    "cgpa": 8.9404,
+    "email": "yvonneshaffer@inear.com",
+    "mob": "+91 (882) 405-3469",
+    "Branch": "Hebbel"
+  },
+  {
+    "uid": 1442,
+    "name": "May Mcintyre",
+    "age": 21,
+    "gender": "male",
+    "cgpa": 5.2745,
+    "email": "maymcintyre@inear.com",
+    "mob": "+91 (924) 476-2526",
+    "Branch": "Ludhiana"
+  },
+  {
+    "uid": 1443,
+    "name": "Lidia Norman",
+    "age": 34,
+    "gender": "female",
+    "cgpa": 6.2405,
+    "email": "lidianorman@inear.com",
+    "mob": "+91 (806) 408-2222",
+    "Branch": "Hebbel"
+  },
+  {
+    "uid": 1444,
+    "name": "Rosetta Shaw",
+    "age": 37,
+    "gender": "female",
+    "cgpa": 6.9497,
+    "email": "rosettashaw@inear.com",
+    "mob": "+91 (908) 535-2370",
+    "Branch": "Chandigarh"
+  },
+  {
+    "uid": 1445,
+    "name": "Good Weeks",
+    "age": 49,
+    "gender": "male",
+    "cgpa": 6.7492,
+    "email": "goodweeks@inear.com",
+    "mob": "+91 (876) 535-3377",
+    "Branch": "Hebbel"
+  },
+  {
+    "uid": 1446,
+    "name": "Sheila Farley",
+    "age": 21,
+    "gender": "female",
+    "cgpa": 9.0984,
+    "email": "sheilafarley@inear.com",
+    "mob": "+91 (931) 468-3538",
+    "Branch": "Panipat"
+  },
+  {
+    "uid": 1447,
+    "name": "Herring Sims",
+    "age": 37,
+    "gender": "male",
+    "cgpa": 9.0499,
+    "email": "herringsims@inear.com",
+    "mob": "+91 (844) 511-3772",
+    "Branch": "Panipat"
+  },
+  {
+    "uid": 1448,
+    "name": "Jana Jarvis",
+    "age": 25,
+    "gender": "female",
+    "cgpa": 9.5728,
+    "email": "janajarvis@inear.com",
+    "mob": "+91 (841) 425-2199",
+    "Branch": "Panipat"
+  },
+  {
+    "uid": 1449,
+    "name": "Mia Mathis",
+    "age": 41,
+    "gender": "female",
+    "cgpa": 7.7454,
+    "email": "miamathis@inear.com",
+    "mob": "+91 (871) 495-3769",
+    "Branch": "Hebbel"
+  },
+  {
+    "uid": 1450,
+    "name": "Ginger Terrell",
+    "age": 22,
+    "gender": "female",
+    "cgpa": 7.7504,
+    "email": "gingerterrell@inear.com",
+    "mob": "+91 (974) 490-3564",
+    "Branch": "Samba"
+  }
+]
